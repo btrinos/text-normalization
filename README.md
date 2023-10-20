@@ -1,8 +1,3 @@
-# text-normalization
-Text Normalization Project
-
-Certainly! Here's a README.md file for the `normalize.py` script:
-
 ---
 
 # Text Normalization Project
