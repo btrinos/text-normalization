@@ -26,7 +26,7 @@ This repository contains the `normalize.py` script which aims to normalize text 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/text-normalization.git
+   git clone https://github.com/btrinos/text-normalization.git
    cd text-normalization
    ```
 
@@ -60,6 +60,10 @@ This repository contains the `normalize.py` script which aims to normalize text 
 
 ## Contributing
 
-Contributions are welcome! Please fork this repository and open a pull request to add enhancements or fix bugs.
+Feel free to fork this repository, make changes, and submit pull requests. Any contributions, whether it's refining the algorithm, improving documentation, or adding features, are highly appreciated!
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for more information.
 
 ---
